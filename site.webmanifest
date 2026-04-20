@@ -1,0 +1,31 @@
+{
+  "name": "Smile Barber Heraklion",
+  "short_name": "Smile Barber",
+  "description": "Smile Barber Heraklion στην Ούλωφ Πάλμε 125, Ηράκλειο.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#15120d",
+  "theme_color": "#15120d",
+  "icons": [
+    {
+      "src": "./logo%20small.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo%20medium.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo%20large.png",
+      "sizes": "600x600",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo%20extra%20large.png",
+      "sizes": "1200x1200",
+      "type": "image/png"
+    }
+  ]
+}
